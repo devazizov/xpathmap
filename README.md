@@ -13,7 +13,7 @@
 
 ## 📽️ Demo
 
-<video src="assets/demo.MP4" controls="controls" style="max-width: 100%;">
+<video src="https://github.com/user-attachments/assets/06d071a3-a1c7-4f89-ad55-a524ac4f874f" controls="controls" style="max-width: 100%;">
   Your browser does not support video.
 </video>
 
