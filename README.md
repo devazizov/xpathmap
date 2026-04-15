@@ -13,7 +13,9 @@
 
 ## 📽️ Demo
 
-[XPathMap Demo](assets/demo.MP4)
+<video src="assets/demo.MP4" controls="controls" style="max-width: 100%;">
+  Your browser does not support video.
+</video>
 
 ---
 
